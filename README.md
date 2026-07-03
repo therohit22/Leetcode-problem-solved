@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -73,11 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
