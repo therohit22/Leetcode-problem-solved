@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1922-count-good-numbers) |
 ## Greedy
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
