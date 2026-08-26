@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/therohit22/Leetcode-problem-solved/tree/master/2220-minimum-bit-flips-to-convert-number) |
