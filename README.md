@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1922-count-good-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +152,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/therohit22/Leetcode-problem-solved/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
