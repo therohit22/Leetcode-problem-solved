@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
+| [0503-next-greater-element-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0503-next-greater-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
