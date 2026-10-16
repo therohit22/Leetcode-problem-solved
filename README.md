@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0907-sum-of-subarray-minimums) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
 | ------- |
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
