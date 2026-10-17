@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
@@ -193,9 +194,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
