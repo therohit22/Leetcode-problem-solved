@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
 | [0503-next-greater-element-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0451-sort-characters-by-frequency) |
+| [0904-fruit-into-baskets](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
