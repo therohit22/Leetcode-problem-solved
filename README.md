@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1903-largest-odd-number-in-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0055-jump-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
