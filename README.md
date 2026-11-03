@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1701-average-waiting-time](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1701-average-waiting-time) |
 ## Trie
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0735-asteroid-collision) |
+| [1701-average-waiting-time](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1701-average-waiting-time) |
 ## Sliding Window
 |  |
 | ------- |
