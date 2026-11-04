@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0630-course-schedule-iii) |
 | [0860-lemonade-change](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/therohit22/Leetcode-problem-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0503-next-greater-element-ii) |
+| [0630-course-schedule-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0630-course-schedule-iii) |
 | [0735-asteroid-collision](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0904-fruit-into-baskets) |
@@ -89,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0630-course-schedule-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0451-sort-characters-by-frequency) |
+| [0630-course-schedule-iii](https://github.com/therohit22/Leetcode-problem-solved/tree/master/0630-course-schedule-iii) |
 ## Bucket Sort
 |  |
 | ------- |
